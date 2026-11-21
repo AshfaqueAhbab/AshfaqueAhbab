@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### hi, i'm ashfaque
+
+- cs at georgia tech, class of 2028
+- co-founder of lazychat, an ai sales and support agent for businesses selling on facebook, instagram and whatsapp
+- open source: fixed float16 overflow bugs in [nvidia physicsnemo](https://github.com/NVIDIA/physicsnemo/pull/2262) (merged) and [nvidia warp](https://github.com/NVIDIA/warp/pull/2354)
+- building movo, an ios screen time app, with the gt ios club
+- from dhaka, based in atlanta
