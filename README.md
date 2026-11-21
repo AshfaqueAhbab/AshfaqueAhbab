@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - open source: fixed float16 overflow bugs in [nvidia physicsnemo](https://github.com/NVIDIA/physicsnemo/pull/2262) (merged) and [nvidia warp](https://github.com/NVIDIA/warp/pull/2354)
 - building movo, an ios screen time app, with the gt ios club
 - from dhaka, based in atlanta
+
+looking for summer 2027 swe internships, especially ios and mobile
