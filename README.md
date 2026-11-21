@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm ashfaque
 
 <!--
 **AshfaqueAhbab/AshfaqueAhbab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### hi, i'm ashfaque
 
 - cs at georgia tech, class of 2028
 - co-founder of lazychat, an ai sales and support agent for businesses selling on facebook, instagram and whatsapp
