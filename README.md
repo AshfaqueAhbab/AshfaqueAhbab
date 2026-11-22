@@ -1,4 +1,4 @@
-## Hello World! I'm ashfaque
+### Hello World! I'm Ashfaque
 
 <!--
 **AshfaqueAhbab/AshfaqueAhbab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- cs at georgia tech, class of 2028
-- co-founder of lazychat, an ai sales and support agent for businesses selling on facebook, instagram and whatsapp
-- open source: fixed float16 overflow bugs in [nvidia physicsnemo](https://github.com/NVIDIA/physicsnemo/pull/2262) (merged) and [nvidia warp](https://github.com/NVIDIA/warp/pull/2354)
-- building movo, an ios screen time app, with the gt ios club
-- from dhaka, based in atlanta
 
-looking for summer 2027 swe internships, especially ios and mobile
+
+- CS at Georgia Tech, class of 2028
+- Co-founder of LazyChat, an AI sales and support agent for businesses selling on Facebook, Instagram and WhatsApp
+- Open source fixes to [NVIDIA PhysicsNeMo](https://github.com/NVIDIA/physicsnemo/pull/2262) (merged), [NVIDIA Warp](https://github.com/NVIDIA/warp/pull/2354), [AWS jsii](https://github.com/aws/jsii-compiler/pull/2925) and [Google ADK](https://github.com/google/adk-python/pull/8296)
+- Built [BuzzFix](https://github.com/AshfaqueAhbab/Buzzfix), an SMS app for reporting campus maintenance issues with AI triage
+- Building Movo, an iOS Screen Time app, with the GT iOS Club
+- From Dhaka, based in Atlanta
+
+Looking for summer 2027 SWE internships.
